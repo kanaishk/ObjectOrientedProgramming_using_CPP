@@ -1,1 +1,15 @@
-sdfgks
+This contains the programs that are in the GGSIPU syllabus for Object Oriented Programming Laboratory.
+
+List of Programs:
+
+  1.	Write a program for multiplication of two matrices using OOP. 
+  2.	Write a program to perform addition of two complex numbers using constructor overloading. The first constructor which takes no argument is used to create objects which are not initialized, second which takes one argument is used to initialize real and imag parts to equal values and third which takes two argument is used to initialized real and imag to two different values. 
+  3.	Write a program to find the greatest of two given numbers in two different classes using friend function. 
+  4.	Implement a class string containing the following functions:
+    a.	Overload + operator to carry out the concatenation of strings.
+    b.	Overload = operator to carry out string copy.
+    c.	Overload <= operator to carry out the comparison of strings.
+    d.	Function to display the length of string.
+    e.	Function tolower() to convert upper case to lower case.
+    f.	Function toupper() to convert lower case letters to upper case.
+  5.	Create a class called LIST with two pure virtual function store () and retrieve (). To store a value call store and to retrieve call retrieve function. Derive two classes stack and queue from it and override store and retrieve.
