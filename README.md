@@ -3,5 +3,4 @@ C++ Source code of programs made for Object Oriented Programming Laboratory. Com
 This repository is split into two branches:
   1. Syllabus <br />
   2. Beyond Syllabus
-<br />
-These programs are made for class assessment purposes and any comment regarding any errors regarding cases unaccounted for are appreciated.
+<br />These programs are made for class assessment purposes and any comment regarding any errors regarding cases unaccounted for are appreciated.
